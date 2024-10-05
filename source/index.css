@@ -721,13 +721,14 @@ footer{
       padding: 50px 10px;
     }
 
-    .card-produto{
-      margin: 1rem auto;
-    }
+    
     
     #secao-produtos-3{
       display: flex;
       flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin:0 auto
     }
 
     header {
