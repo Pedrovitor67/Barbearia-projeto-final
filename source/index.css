@@ -720,6 +720,10 @@ footer{
     body {
       padding: 50px 10px;
     }
+
+    .card-produto{
+      margin: 1rem auto;
+    }
     
     #secao-produtos-3{
       display: flex;
